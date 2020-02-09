@@ -1,2 +1,2 @@
-# CS-188-Assignment2
-This is my Assignment2 for Software Engineering :)
+# CS-188-Assignment-2
+This is my Assignment 2 for Software Engineering.
